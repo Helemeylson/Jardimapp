@@ -1,5 +1,5 @@
 
-# Jardimapp - o aplicativo do jardineiro
+# O aplicativo do jardineiro
 <img src="image/logorecorte2.png" width=710% height=60%>
 
  
