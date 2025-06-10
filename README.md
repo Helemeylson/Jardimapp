@@ -1,6 +1,6 @@
 
 # Jardimapp - o aplicativo do jardineiro
-<img src="image/logorecorte2.png" width=70% height=60%>
+<img src="image/logorecorte2.png" width=710% height=60%>
 
  
 <div style = "display flex; gap: 15px; align-itens: center;">
