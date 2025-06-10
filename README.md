@@ -1,4 +1,4 @@
-<img src=image/logorecorte2.png" width="15%">
+<img src="image/logorecorte2.png" width="15%">
 
 # Jardimapp - o aplicativo do jardineiro
 
