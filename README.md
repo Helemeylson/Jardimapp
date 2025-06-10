@@ -1,3 +1,5 @@
+<img src=image/logorecorte2.png" width="15%">
+
 # Jardimapp - o aplicativo do jardineiro
 <div style = "display flex; gap: 15px; align-itens: center;"> 
 <div style = "display flex; gap: 15px; align-itens: center;">
